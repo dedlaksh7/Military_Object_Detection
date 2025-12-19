@@ -1,0 +1,24 @@
+# Models
+*.pt
+*.onnx
+
+# Training outputs
+runs/
+wandb/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Datasets
+test_images/
+datasets/
