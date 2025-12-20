@@ -42,25 +42,11 @@ and executable packaging.
 
 
 
-\## GUI Preview
-
-!\[GUI](assets/gui\_home.png)
-
-
-
-\## Detection Example
-
-!\[Detection](assets/detection\_result.png)
-
-
-
 \## Output Format
 
 Each test image produces a `.txt` file:
 
 class\_id x\_center y\_center width height confidence
-
-
 
 
 
